@@ -1,8 +1,8 @@
 #include <stdio.h>
 #include "function_pointers.h"
 /**
- * int_index - function that searches for an integer 
- * 
+ * int_index - function that searches for an integer
+ *
  * @size: This is the length of the array
  * @array: This is input array
  * @cmp: Is a pointer to the function to be used to compare values
